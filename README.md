@@ -1,19 +1,19 @@
 # Abdeljalil Amejrar
 
-**Full-Stack Web Developer**
+**Software Developer · Full-Stack, Analytics & Automation**
 
-Currently at **Rheinwunder Digital Strategies**, based in **Germany**.
+I've developed software since 2021 and joined Rheinwunder GmbH in Bonn in October 2024. My work connects web development, measurement and automation.
 
-I build and improve WordPress websites with PHP and ACF, focusing on clear editing workflows and a responsive user experience.
+## What I work on
 
-## Current focus
+- **Full-stack:** Angular and JavaScript frontends; Java, PHP, Laravel and MySQL backends.
+- **WordPress:** custom themes, plugins, migrations and integrations.
+- **Analytics:** GA4, Google Tag Manager, data layers, consent and server-side tracking.
+- **Web quality:** Schema.org/JSON-LD, performance, accessibility and security.
+- **AI workflows:** automation using OpenAI, Claude and Gemini.
 
-- **Relaunches and custom themes** — maintainable websites shaped around their content and requirements.
-- **Editable content** — reusable ACF sections and backends that make everyday updates straightforward.
-- **Website quality** — technical SEO, structured data, responsive layouts and performance.
+## Background
 
-## Approach
+Computer Science bachelor's degree from Université Cadi Ayyad. Previously a developer at ADVANTA SOLUTION (2021–2024).
 
-I consider editorial needs and the visitor experience throughout the build. On existing sites, I work with established builders and editing workflows where they serve the project.
-
-[LinkedIn](https://www.linkedin.com/in/abdeljalil-amejrar/)
+[Professional profile](https://rheinwunder.com/personen/abdeljalil-amejrar/) · [LinkedIn](https://www.linkedin.com/in/abdeljalil-amejrar/)
